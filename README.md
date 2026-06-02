@@ -1,6 +1,16 @@
 # Demo Portfolio - Zsolt Oláh
 ---
 
+## 01. NYC Taxi Trips Analysis
+
+This project delivers a revenue-focused analysis of New York City taxi trips using Python for data preparation and Tableau for interactive storytelling. By examining trip data across boroughs, time periods, and airport versus non-airport routes, the analysis uncovers clear spatial and temporal patterns that drive revenue. The results provide actionable, data-driven recommendations for optimizing taxi fleet allocation, helping decision-makers increase utilization and maximize revenue across high-value areas and time windows.
+
+**Skills:** Python Programming | Data Cleaning | Exploratory Data Analysis (EDA) | Time Series Analysis | Geospatial Analysis | Revenue Analysis | Data Visualization | Tableau | Pandas
+
+🔗 [Go to the project folder for further content](https://github.com/ZsoltOlahHungary/Demo-Projects-Portfolio/tree/main/Demo%20Portfolio/01%20NYC%20Taxi%20Trip%20Analysis)
+
+---
+
 ## 02. Bike Share Analysis
 
 This project examines how casual riders and annual members use a bike‑share service differently by analyzing a full year of ride data. The findings reveal clear patterns in when and how each group rides, helping us understand their needs and habits. These insights highlight strong opportunities to convert casual riders into annual members through targeted offers. With this evidence, we can build a focused marketing strategy that increases membership and supports long‑term growth.
@@ -8,7 +18,6 @@ This project examines how casual riders and annual members use a bike‑share se
 **Skills**: R Programming | Data Cleaning | Data Wrangling | Exploratory Data Analysis (EDA) | Data Visualization (ggplot2) | Tidyverse | Time & Date Analysis | Descriptive Statistics | Data Aggregation | Reproducible Reporting (R Markdown)
 
 🔗 [Go to the project folder for further content](https://github.com/ZsoltOlahHungary/Demo-Projects-Portfolio/tree/main/Demo%20Portfolio/02%20Bike%20Share%20Analysis)
-
 
 ---
 
