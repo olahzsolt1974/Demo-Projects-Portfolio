@@ -79,3 +79,12 @@ This project presents a complete, real-world churn prediction solution built wit
 
 🔗 [Go to the project folder for further content](https://github.com/ZsoltOlahHungary/Demo-Projects-Portfolio/tree/main/Demo%20Portfolio/08%20Streaming%20Service%20Churn%20Prediction)
 
+---
+
+## 09. Table Tennis League Analysis
+
+This project combines automated data collection with interactive sports analytics to provide deeper insights into a local table tennis league in which I actively compete. Since the official website offers only limited reporting, I built a Python-based solution to collect and process weekly tournament data, transforming raw match results into structured datasets suitable for advanced analysis. The resulting Tableau dashboards track the overall state of the competition, including team rankings, top-performing players, participation statistics, and tournament progress. In addition, a dedicated player performance dashboard enables detailed comparison of individual players, helping my team evaluate our strengths, identify areas for improvement, and prepare more effectively for upcoming opponents. The project demonstrates how web scraping, data engineering, and visualization can be combined to support data-driven decision making in a real-world sports environment.
+
+**Skills:** Python Programming | Web Scraping | HTML Parsing | BeautifulSoup | Requests Library | Data Extraction | ETL Pipeline Development | Data Cleaning | CSV Processing | Data Anonymization | Tableau | Dashboard Design | Sports Analytics | Data Visualization
+
+🔗 [Go to the project folder for further content](https://github.com/ZsoltOlahHungary/Demo-Projects-Portfolio/tree/main/Demo%20Portfolio/09%20Table%20Tennis%20League%20Analysis)
